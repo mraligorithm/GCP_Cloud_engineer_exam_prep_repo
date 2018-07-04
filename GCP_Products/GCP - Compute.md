@@ -48,7 +48,7 @@ Network storage, up to 64 TB in size, can be attached to VMs as persistent disks
 ##### Local SSD
 Compute Engine offers always-encrypted local solid-state drive (SSD) block storage. Unlike standard persistent disks, local SSDs are physically attached to the server hosting the virtual machine instance offering very high input/output operations per second (IOPS) and very low latency compared to persistent disks. Local SSD sizes up to 3 TB are available for any VM with at least 1 vCPU. 
 
-##### Transparent Maintenance
+####### Transparent Maintenance
     Our innovative datacenters and Live Migration technology enable proactive infrastructure maintenance, improving reliability and security. Your live VMs are automatically moved to nearby hosts, even if your VMs are under extreme load, while underlying host machines undergo maintenance. You won't have to reboot your VMs due to host software updates or even some classes of detectable hardware failure. 
 
 ##### Global Load Balancing
